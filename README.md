@@ -23,6 +23,7 @@
  ```pwsh
  > .\Write-Poem.ps1
  ```
+ >同じディレクトリに`poemwords.json`が存在しないとエラーが発生します。
 2. プロンプトが表示されるので、`0~4` までの数字を入力し、モードを選択します。
 ```
 Welcome to the Literature Club!
